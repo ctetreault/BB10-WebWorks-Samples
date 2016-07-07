@@ -10,7 +10,7 @@ Twitter OAuth Sample is the name of a proof-of-concept WebWorks application that
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
