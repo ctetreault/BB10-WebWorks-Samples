@@ -8,7 +8,7 @@ This sample demonstrates how to get started with the [BlackBerry Payment Service
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
