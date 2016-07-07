@@ -10,7 +10,7 @@ This sample demonstrates how to integrate Localytics "App Analytics" in to a Bla
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
