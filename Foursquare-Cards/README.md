@@ -11,7 +11,7 @@ This sample demonstrates how an application can integrate with the available Fou
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
