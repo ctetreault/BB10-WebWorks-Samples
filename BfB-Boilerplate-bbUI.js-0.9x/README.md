@@ -13,7 +13,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Built For BlackBerry**
 
