@@ -11,7 +11,7 @@ Facebook OAuth Sample is the name of a proof-of-concept WebWorks application tha
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
