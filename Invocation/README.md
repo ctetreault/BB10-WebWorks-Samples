@@ -8,7 +8,7 @@ This sample application demonstrates how to invoke a number of core applications
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
