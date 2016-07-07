@@ -10,7 +10,7 @@ This sample demonstrates how to invoke BBM Channels. You'll learn how to open, a
 
 **Author(s)**
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Dependencies**
 
