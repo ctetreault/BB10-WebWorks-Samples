@@ -10,7 +10,7 @@ This sample demonstrates how to easily use gestures in a BlackBerry WebWorks app
 
 **Author(s)** 
 
-* [Chad Tetreault](http://www.twitter.com/chadtatro)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 **Waving Image Contribution** 
 
